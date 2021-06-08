@@ -1,0 +1,80 @@
+h1.opener{
+    font-size: 50px;
+    background-color: lightblue;
+    padding: 10px;
+    border-width: 10px, thick;
+    border-style: groove;
+    text-shadow: 1px -1px #666666;
+   
+}
+
+body{
+    overflow: auto;
+}
+a.link {
+    color: rgb(25, 235, 35);
+    text-decoration: none;
+}
+a:hover{
+color: deeppink;
+text-decoration: underline;
+}
+h2.intro{
+    text-align: left;
+    
+}
+
+h2.personal{
+    text-align: left;
+}
+
+h2.moving{
+    text-align: left;
+    padding: 5px;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5em;
+    
+}
+p.intro:first-letter{
+    font-size: 40px;
+}
+p.background:first-letter{
+    font-size: 40px;
+}
+p.moving:first-letter{
+    font-size: 40px;
+}
+p.background{
+    padding: 5px;
+  
+}
+
+p.moving{
+    padding: 5px;
+}
+
+img.head{
+    box-shadow: 5px 5px 5px 5px #777777; 
+}
+
+
+h1.infopageheader{
+    text-align: center;
+    font-size: 100px;
+    letter-spacing: 0.2em;
+}
+
+p.infopage{
+    line-height: 2em;
+    font-size: 50px;
+    letter-spacing: 0.2em;
+    border-style: double;
+}
+
+
+
