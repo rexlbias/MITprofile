@@ -11,7 +11,14 @@ h1.opener{
 body{
     overflow: auto;
 }
-
+a.link {
+    color: rgb(25, 235, 35);
+    text-decoration: none;
+}
+a:hover{
+color: deeppink;
+text-decoration: underline;
+}
 h2.intro{
     text-align: left;
     
@@ -52,9 +59,12 @@ p.moving{
 }
 
 img.head{
-    box-shadow: 5px 5px 5px 5px #777777; 
+    box-shadow: 5px 5px 5px 5px #777777;
 }
 
+.text-primary{
+    font-size: 40px;
+}
 
 h1.infopageheader{
     text-align: center;
@@ -68,6 +78,31 @@ p.infopage{
     letter-spacing: 0.2em;
     border-style: double;
 }
+
+h1.projecth1 {
+    font-size: 75px;
+    text-align: center;
+    border-style:  solid;
+}
+img.pacman {
+    box-shadow: 5px 5px 5px 5px #777777; 
+    display: block;
+    margin: 0px auto;
+    
+}
+
+img.eye {
+    box-shadow: 5px 5px 5px 5px #777777; 
+    display: block;
+    margin: 0px auto;
+}
+
+img.bus {
+    box-shadow: 5px 5px 5px 5px #777777; 
+    display: block;
+    margin: 0px auto;
+}
+
 
 
 
